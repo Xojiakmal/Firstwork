@@ -17,7 +17,7 @@ $_POST['son1']++;
 </head>
 <body>
     <div class="container">
-        <form action="index.php" method="POST">
+        <form action="README.md" method="POST">
             <h3>Summa kiriting</h3>
             <input type="number" name="pul">
             <button type="submit" name="tugma" value="k">Kiritish</button>
